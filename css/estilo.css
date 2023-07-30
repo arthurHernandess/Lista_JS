@@ -1,0 +1,228 @@
+body 
+{ 
+	margin: 0; 
+	background: url(../images/linhasBackground.png); 
+	background-color: #222a32; 
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+p 
+{
+	font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    padding: 3px;
+}
+
+header
+{
+	/* background-color: #FF7200; */
+	padding : 15px;
+	text-align: center;
+}
+
+header a
+{
+	color: white;
+	text-decoration: none;
+}
+
+nav 
+{   /* background-color: #3056c&; */ 
+	width: 365px;
+    margin: auto;
+    position: relative;
+    right: 433px;
+} 
+nav ul { padding: 0; }
+nav ul li 
+{ 
+	margin-bottom: 60px;
+    display: inline-block;
+    /* background-color: #ff0000; */
+    text-align: center;
+    padding: 0 7px;
+    margin-right: 5px;
+    color: white;
+    width: 100%;
+}
+
+nav ul li a { color: white; text-transform: uppercase; text-decoration: none; }
+
+nav ul li a:hover { color: #FF7200; }
+
+section
+{
+	width: 940px; 
+	margin: auto;
+	margin-bottom: 15px;
+	padding: 15px;
+	box-sizing: border-box;
+	height: 0px;
+}
+
+div
+{
+	top: -510px;
+    left: -33px;
+    background-color: white;
+    padding: 10px;
+    width: 743px;
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: 1px 1px 5px;
+    background-color: #2f51b0;
+    color: white;
+}
+
+.prof { color: #2E51B2; }
+.freddy { color: #FF7100; }
+.ex01 
+{
+	/* left: 365px; */
+    margin-right: 250px;
+    position: relative;
+    /* top: -520px; */
+    width: 330px;
+    height: 218px;
+}
+
+.ex02
+{
+    /* left: 365px; */
+    margin-right: 250px;
+    position: relative;
+    /* top: -520px; */
+    width: 330px;
+    height: 218px;
+}
+
+.ex03
+{
+    left: -10px;
+    margin-right: 250px;
+    position: relative;
+    /* top: -520px; */
+    width: 368px;
+    height: 315px;
+}
+
+.ex01-label { height:100px; width:100px;}
+.botao 
+{ 
+	color: white;
+    width: 350px;
+    margin-top: 77px;
+    top: -23px;
+    left: -13px;
+    border: 0;
+    background-color: #FF7200;
+    position: relative;
+    border-radius: 6px;
+    height: 32px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.botao2
+{
+	color: white;
+    width: 350px;
+    margin-top: 113px;
+    top: -19px;
+    left: -13px;
+    border: 0;
+    background-color: #FF7200;
+    position: relative;
+    border-radius: 6px;
+    height: 32px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.botao3
+{
+    color: white;
+    width: 388px;
+    margin-top: 113px;
+    top: -88px;
+    left: -13px;
+    border: 0;
+    background-color: #FF7200;
+    position: relative;
+    border-radius: 6px;
+    height: 32px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.botao4 
+{
+    color: white;
+    width: 350px;
+    margin-top: 113px;
+    top: -62px;
+    left: -13px;
+    border: 0;
+    background-color: #FF7200;
+    position: relative;
+    border-radius: 6px;
+    height: 32px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.botao5
+{
+    color: white;
+    width: 350px;
+    margin-top: 113px;
+    top: -62px;
+    left: -13px;
+    border: 0;
+    background-color: #FF7200;
+    position: relative;
+    border-radius: 6px;
+    height: 32px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.botao6
+{
+    color: white;
+    width: 350px;
+    margin-top: 113px;
+    top: -102px;
+    left: -13px;
+    border: 0;
+    background-color: #FF7200;
+    position: relative;
+    border-radius: 6px;
+    height: 32px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.botao7
+{
+    color: white;
+    width: 350px;
+    margin-top: 113px;
+    top: -19px;
+    left: -13px;
+    border: 0;
+    background-color: #FF7200;
+    position: relative;
+    border-radius: 6px;
+    height: 32px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.preco { width: 122px; border-radius: 6px;}
+.nota { width: 153px; border-radius: 6px;}
+.nes { width: 155px; border-radius: 6px;}
+.br { border-radius: 6px; }
+.Lista { color: #FF7200;}
